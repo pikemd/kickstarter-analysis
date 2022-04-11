@@ -16,7 +16,7 @@
 
 ## Results
 
-- Two conclusions you can draw about the Outcomes based on Launch Date is that May is the best timeframe seems to be the best time to get a successful campaign, it also does come with a higher likely to be failed. You are most likely to be successful if you are doing something between $0-$5000. You are very unlikely to fail if you fall into the $45,000 to $49,999 range.
+- Two conclusions you can draw about the Outcomes based on Launch Date is that May is the best timeframe seems to be the best time to get a successful campaign, it also does come with a higher likely to be failed. You are most likely to be successful if you are doing something between $0-$5000. You are very likely to fail if you fall into the $45,000 to $49,999 range.
 - ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/101365965/162635069-d3ccec1a-e944-4df4-9738-b773be67ec6b.png)
 
 
